@@ -67,14 +67,17 @@ A curated list of awesome game decompilations
 - [Super Mario 64](https://github.com/n64decomp/sm64)
 - [Paper Mario](https://github.com/pmret/papermario)
 
+## Sonic
+- [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
+- [Sonic 1 & 2](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
+- [Sonic CD](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
+
 ## Other
 - [Perfect Dark](https://github.com/n64decomp/perfect_dark)
 - [Banjo Kazooie](https://github.com/n64decomp/banjo-kazooie)
 - [Golden Eye](https://github.com/n64decomp/007)
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
 - [Red Driver 2](https://github.com/OpenDriver2/REDRIVER2)
-- [Sonic 1 & 2](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
-- [Sonic CD](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
 - [Tohou PC98](https://github.com/nmlgc/ReC98)
 - [Melee](https://github.com/doldecomp/melee)
 - [Lego Island](https://github.com/isledecomp/isle)
