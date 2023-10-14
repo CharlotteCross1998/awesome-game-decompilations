@@ -66,6 +66,8 @@ A curated list of awesome game decompilations
 - [Mario Kart 64](https://github.com/n64decomp/mk64)
 - [Super Mario 64](https://github.com/n64decomp/sm64)
 - [Paper Mario](https://github.com/pmret/papermario)
+- [Super Mario Galaxy 1](https://github.com/SMGCommunity/Petari)
+- [Super Mario Galaxy 2](https://github.com/SMGCommunity/Garigari)
 
 ## Sonic
 - [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
@@ -81,3 +83,6 @@ A curated list of awesome game decompilations
 - [Tohou PC98](https://github.com/nmlgc/ReC98)
 - [Melee](https://github.com/doldecomp/melee)
 - [Lego Island](https://github.com/isledecomp/isle)
+- [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
+- [Pikmin 2](https://github.com/projectPiki/pikmin2)
+- [Pikmin 1](https://github.com/projectPiki/pikmin)
