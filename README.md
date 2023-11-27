@@ -86,3 +86,4 @@ A curated list of awesome game decompilations
 - [Metal Gear Solid](https://github.com/FoxdieTeam/mgs_reversing)
 - [Pikmin 2](https://github.com/projectPiki/pikmin2)
 - [Pikmin 1](https://github.com/projectPiki/pikmin)
+- [VIB Ribnon](https://github.com/open-ribbon/open-ribbon)
