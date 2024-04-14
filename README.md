@@ -73,6 +73,7 @@ A curated list of awesome game decompilations
 - [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
 - [Sonic 1 & 2](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 - [Sonic CD](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
+- [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp)
 
 ## Other
 - [Perfect Dark](https://github.com/n64decomp/perfect_dark)
