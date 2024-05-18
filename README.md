@@ -52,7 +52,7 @@ A curated list of awesome game decompilations
 
 ## Zelda
 - [Ocarina of Time](https://github.com/zeldaret/oot)
-- [Ocarina of Time(JP)](https://github.com/zeldaret/oot-vc)
+- [Ocarina of Time (JP)](https://github.com/zeldaret/oot-vc)
 - [Majora's Mask](https://github.com/zeldaret/mm)
 - [Wind Waker](https://github.com/zeldaret/tww)
 - [Minish Cap](https://github.com/zeldaret/tmc)
@@ -73,7 +73,7 @@ A curated list of awesome game decompilations
 - [Mario Kart Wii](https://github.com/riidefi/mkw)
 - [Mario Party 1](https://github.com/rainchus/mp1)
 - [Mario Party 2](https://github.com/rainchus/mp2)
-- [Mario Party 3](https://github.com/rainchus/marioparty3)
+- [Mario Party 3](https://github.com/zestydevy/marioparty3)
 - [Mario Party 4](https://github.com/rainchus/marioparty4)
 - [Mario Party 5](https://github.com/rainchus/marioparty5)
 - [Mario Party 6](https://github.com/rainchus/marioparty6)
@@ -106,6 +106,8 @@ A curated list of awesome game decompilations
 - [Blast Corps](https://github.com/retroplastic/blastcorps)
 - [Bomberman 64](https://github.com/bomberhackers/bm64)
 - [Bomberman Hero](https://github.com/bomberhackers/bmhero)
+- [Chameleon Twist](https://github.com/chameleontwistret/chameleontwistv1.0-jp)
+- [Chameleon Twist 2](https://github.com/chameleontwistret/chameleontwist2v1.0-jp)
 - [Castlevania 64](https://github.com/blazkowolf/cv64)
 - [Castlevania: Symphony of the Night](https://github.com/xeeynamo/sotn-decomp)
 - [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp)
