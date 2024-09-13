@@ -140,6 +140,7 @@ A curated list of awesome game decompilations
 - [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark)
 - [Pikmin 1](https://github.com/projectPiki/pikmin)
 - [Pikmin 2](https://github.com/projectPiki/pikmin2)
+- [Pizza Tower](https://github.com/femloy/OpenTower)
 - [Quest 64](https://github.com/mallos31/quest)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
