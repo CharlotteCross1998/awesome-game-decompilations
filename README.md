@@ -53,6 +53,7 @@ A curated list of awesome game decompilations
 ## Zelda
 - [Ocarina of Time](https://github.com/zeldaret/oot)
 - [Ocarina of Time (JP)](https://github.com/zeldaret/oot-vc)
+- [Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
 - [Majora's Mask](https://github.com/zeldaret/mm)
 - [Wind Waker](https://github.com/zeldaret/tww)
 - [Minish Cap](https://github.com/zeldaret/tmc)
@@ -62,7 +63,7 @@ A curated list of awesome game decompilations
 
 ## AC
 - [Animal Forest](https://github.com/zeldaret/af)
-- [Animal Crossing](https://github.com/Prakxo/ac-decomp)
+- [Animal Crossing](https://github.com/acreteam/ac-decomp)
 
 ## Mario 
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
@@ -71,14 +72,14 @@ A curated list of awesome game decompilations
 - [Mario Kart 64](https://github.com/n64decomp/mk64)
 - [Mario Kart: Double Dash!!](https://github.com/swarejonge/mkdd)
 - [Mario Kart Wii](https://github.com/riidefi/mkw)
-- [Mario Party 1](https://github.com/rainchus/mp1)
-- [Mario Party 2](https://github.com/rainchus/marioparty2)
-- [Mario Party 3](https://github.com/zestydevy/marioparty3)
-- [Mario Party 4](https://github.com/rainchus/marioparty4)
-- [Mario Party 5](https://github.com/rainchus/marioparty5)
-- [Mario Party 6](https://github.com/rainchus/marioparty6)
-- [Mario Party 7](https://github.com/rainchus/marioparty7)
-- [Mario Party 8](https://github.com/rainchus/marioparty8)
+- [Mario Party 1](https://github.com/mariopartyrd/marioparty)
+- [Mario Party 2](https://github.com/mariopartyrd/marioparty2)
+- [Mario Party 3](https://github.com/mariopartyrd/marioparty3)
+- [Mario Party 4](https://github.com/mariopartyrd/marioparty4)
+- [Mario Party 5](https://github.com/mariopartyrd/marioparty5)
+- [Mario Party 6](https://github.com/mariopartyrd/marioparty6)
+- [Mario Party 7](https://github.com/mariopartyrd/marioparty7)
+- [Mario Party 8](https://github.com/mariopartyrd/marioparty8)
 - [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp)
 - [Mario Tennis](https://github.com/dellm-79/mariotennisn64)
 - [Paper Mario](https://github.com/pmret/papermario)
