@@ -30,7 +30,8 @@ A curated list of awesome game decompilations
 ### Spin-Offs 
 
 #### Stadium
-- [Stadium](https://github.com/pret/pokestadium)
+- [Stadium 1](https://github.com/pret/pokestadium)
+- [Stadium 2](https://github.com/pret/pokestadiumgs)
 - [Battle Revolution](https://github.com/pret/pokerevo)
 
 #### Mystery Dungeon
@@ -123,12 +124,13 @@ A curated list of awesome game decompilations
 - [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour)
 - [F-Zero X](https://github.com/inspectredc/fzerox)
 - [Gauntlet Legends](https://github.com/drahsid/gauntlet-legends)
+- [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp)
 - [Glover](https://github.com/rainchus/glover)
 - [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src)
 - [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp)
 - [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl)
 - [Homeland](https://github.com/bttrdrgn/homeland)
-- [Kirby 64: The Crystal Shards](https://github.com/farisawan-2000/kirby64)
+- [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64)
 - [Kirby Air Ride](https://github.com/doldecomp/kar)
 - [Kirby's Epic Yarn](https://github.com/swiftshine/key)
 - [Lego Island](https://github.com/isledecomp/isle)
@@ -142,7 +144,7 @@ A curated list of awesome game decompilations
 - [Pikmin 1](https://github.com/projectPiki/pikmin)
 - [Pikmin 2](https://github.com/projectPiki/pikmin2)
 - [Pizza Tower](https://github.com/femloy/OpenTower)
-- [Quest 64](https://github.com/mallos31/quest)
+- [Quest 64](https://github.com/rainchus/quest64-decomp)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
