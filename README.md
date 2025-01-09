@@ -126,6 +126,7 @@ A curated list of awesome game decompilations
 - [F-Zero X](https://github.com/inspectredc/fzerox)
 - [Gauntlet Legends](https://github.com/drahsid/gauntlet-legends)
 - [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp)
+- [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves)
 - [Glover](https://github.com/rainchus/glover)
 - [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src)
 - [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp)
