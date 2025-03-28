@@ -101,6 +101,9 @@ A curated list of awesome game decompilations
 - [Sonic Mania](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
 - [Sonic Riders](https://github.com/doldecomp/sonicriders)
 - [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp)
+- [Sonic Advance 1](https://github.com/SAT-R/sa1)
+- [Sonic Advance 2](https://github.com/SAT-R/sa2)
+- [Sonic Advance 3](https://github.com/SAT-R/sa3)
 
 ## Other
 - [AeroGauge](https://github.com/llonsit/aerogauge)
