@@ -146,6 +146,7 @@ A curated list of awesome game decompilations
 - [Metal Gear Solid 2](https://github.com/GirianSeed/mgs2)
 - [Metroid Prime 1](https://github.com/primedecomp/prime)
 - [Metroid Prime 2](https://github.com/primedecomp/echoes)
+- [Minecraft: Nintendo Switch Edition](https://github.com/granimated/MinecraftLCE)
 - [Mischief Makers](https://github.com/drahsid/mischief-makers)
 - [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion)
