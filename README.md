@@ -68,7 +68,7 @@ A curated list of awesome game decompilations
 
 ## Mario 
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
-- [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion)
+- [Luigi's Mansion](https://github.com/Moddimation/Yasiki)
 - [Mario Golf](https://github.com/monde-lointain/mariogolf64)
 - [Mario Kart 64](https://github.com/n64decomp/mk64)
 - [Mario Kart: Double Dash!!](https://github.com/swarejonge/mkdd)
