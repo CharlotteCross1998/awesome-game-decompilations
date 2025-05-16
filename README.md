@@ -154,6 +154,7 @@ A curated list of awesome game decompilations
 - [Pikmin 1](https://github.com/projectPiki/pikmin)
 - [Pikmin 2](https://github.com/projectPiki/pikmin2)
 - [Pizza Tower](https://github.com/femloy/OpenTower)
+- [Plants vs Zombies GOTY](https://github.com/Patoke/re-plants-vs-zombies)
 - [Quest 64](https://github.com/rainchus/quest64-decomp)
 - [Resident Evil - Code: Veronica X](https://github.com/fmil95/recvx-decomp)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
