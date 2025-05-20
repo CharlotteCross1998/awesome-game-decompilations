@@ -137,6 +137,8 @@ A curated list of awesome game decompilations
 - [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour)
 - [F-Zero X](https://github.com/inspectredc/fzerox)
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
+- [Fatal Frame 1](https://github.com/mikompilation/himuro)
+- [Fatal Frame 2](https://github.com/mikompilation/minakami)
 - [Gauntlet Legends](https://github.com/drahsid/gauntlet-legends)
 - [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp)
 - [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves)
