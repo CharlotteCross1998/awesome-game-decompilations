@@ -99,6 +99,7 @@ A curated list of awesome game decompilations
 - [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp)
 - [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp)
 - [Super Mario Sunshine](https://github.com/doldecomp/sms)
+- [Super Paper Mario](https://github.com/seekyct/spm-decomp)
 - [Yoshi's Story](https://github.com/decompals/yoshis-story)
 
 ## Sonic
@@ -150,6 +151,7 @@ A curated list of awesome game decompilations
 - [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl)
 - [Homeland](https://github.com/bttrdrgn/homeland)
 - [Ico](https://github.com/rossydoubleunderscore/ico-decomp)
+- [Jet Force Gemini](https://github.com/ryan-myers/jet-force-gemini)
 - [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64)
 - [Kirby Air Ride](https://github.com/doldecomp/kar)
 - [Kirby's Epic Yarn](https://github.com/swiftshine/key)
@@ -164,10 +166,12 @@ A curated list of awesome game decompilations
 - [Metroid Prime 2](https://github.com/primedecomp/echoes)
 - [Minecraft: Nintendo Switch Edition](https://github.com/granimated/MinecraftLCE)
 - [Mischief Makers](https://github.com/drahsid/mischief-makers)
+- [Mystical Ninja Starring Goemon](https://github.com/klorfmorf/mnsg)
 - [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4)
 - [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw)
 - [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion)
+- [Onegai Monsters](https://github.com/ryan-myers/onegaimonsters)
 - [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark)
 - [Pikmin 1](https://github.com/projectPiki/pikmin)
 - [Pikmin 2](https://github.com/projectPiki/pikmin2)
