@@ -210,5 +210,6 @@ A curated list of awesome game decompilations
 - [Wave Race 64](https://github.com/llonsit/wave-race-64)
 - [Xenoblade](https://github.com/xbret/xenoblade)
 - [Xenogears](https://github.com/ladysilverberg/xenogears-decomp)
+- [Xenogears (non-matching)](https://github.com/yaz0r/Noah)
 - [Xenosaga Episode 1 - Der Wille zur Macht](https://github.com/squareman/xenosaga)
 - [Yakuza](https://github.com/hamzaxx370/ogre-decomp)
