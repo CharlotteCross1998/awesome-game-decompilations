@@ -32,11 +32,14 @@ A curated list of awesome game decompilations
 #### Stadium
 - [Stadium 1](https://github.com/pret/pokestadium)
 - [Stadium 2](https://github.com/pret/pokestadiumgs)
-- [Battle Revolution](https://github.com/pret/pokerevo)
+- [Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 
 #### Mystery Dungeon
 - [PMD Red](https://github.com/pret/pmd-red)
 - [PMD Sky](https://github.com/pret/pmd-sky)
+
+#### Park
+- [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
 
 #### Pinball
 - [Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
@@ -138,6 +141,7 @@ A curated list of awesome game decompilations
 - [Doshin the Giant](https://github.com/break-core/doshin-gc)
 - [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Driver 2](https://github.com/OpenDriver2/REDRIVER2)
+- [Duke Nukem 64](https://github.com/nblood/duke64-re)
 - [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour)
 - [F-Zero X](https://github.com/inspectredc/fzerox)
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
@@ -206,6 +210,7 @@ A curated list of awesome game decompilations
 - [Touhou PC-98](https://github.com/nmlgc/ReC98)
 - [Turok 3: Shadow of Oblivion](https://github.com/Drahsid/turok3)
 - [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp)
+- [Vagrant Story](https://github.com/ser-pounce/rood-reverse)
 - [VIB Ribbon](https://github.com/open-ribbon/open-ribbon)
 - [Virtual Pool 64](https://github.com/llonsit/virtualpool64)
 - [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2)
