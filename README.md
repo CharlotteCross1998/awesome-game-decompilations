@@ -32,11 +32,14 @@ A curated list of awesome game decompilations
 #### Stadium
 - [Stadium 1](https://github.com/pret/pokestadium)
 - [Stadium 2](https://github.com/pret/pokestadiumgs)
-- [Battle Revolution](https://github.com/pret/pokerevo)
+- [Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 
 #### Mystery Dungeon
 - [PMD Red](https://github.com/pret/pmd-red)
 - [PMD Sky](https://github.com/pret/pmd-sky)
+
+#### Park
+- [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
 
 #### Pinball
 - [Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
@@ -86,7 +89,7 @@ A curated list of awesome game decompilations
 - [Mario Party 8](https://github.com/mariopartyrd/marioparty8)
 - [Mario Party 9](https://github.com/mariopartyrd/marioparty9)
 - [Mario Party DS](https://github.com/mariopartyrd/mariopartyds)
-- [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp)
+- [Mario Superstar Baseball](https://github.com/roeming/mssb-dtk)
 - [Mario Tennis](https://github.com/dellm-79/mariotennisn64)
 - [Paper Mario](https://github.com/pmret/papermario)
 - [Paper Mario: Sticker Star](https://github.com/darxoon/leaflitter)
@@ -129,6 +132,7 @@ A curated list of awesome game decompilations
 - [Castlevania: Symphony of the Night](https://github.com/xeeynamo/sotn-decomp)
 - [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp)
 - [Conker's Bad Fur Day](https://github.com/mkst/conker)
+- [Dark Cloud](https://github.com/adubbz/dcdecomp)
 - [Dark Rift](https://github.com/unnunu/darkrift)
 - [Diddy Kong Racing](https://github.com/davidsm64/diddy-kong-racing)
 - [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet)
@@ -137,6 +141,7 @@ A curated list of awesome game decompilations
 - [Doshin the Giant](https://github.com/break-core/doshin-gc)
 - [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Driver 2](https://github.com/OpenDriver2/REDRIVER2)
+- [Duke Nukem 64](https://github.com/nblood/duke64-re)
 - [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour)
 - [F-Zero X](https://github.com/inspectredc/fzerox)
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
@@ -182,7 +187,7 @@ A curated list of awesome game decompilations
 - [Resident Evil - Code: Veronica X](https://github.com/fmil95/recvx-decomp)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
-- [Shin Megami Tensei](https://github.com/thecommandochicken/smt-decomp)
+- [Shin Megami Tensei](https://codeberg.org/chickenzes/smt-decomp)
 - [Silent Hill](https://github.com/Vatuu/silent-hill-decomp)
 - [Skies of Arcadia Legends](https://github.com/rainchus/SkiesofArcadiaLegends)
 - [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)
@@ -194,6 +199,7 @@ A curated list of awesome game decompilations
 - [Space Station Silicon Valley](https://github.com/mkst/sssv)
 - [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb)
 - [Star Fox 64](https://github.com/sonicdcer/sf64)
+- [Star Fox Adventures](https://github.com/renakunisaki/sfadebug)
 - [Star Wars: Shadows of the Empire](https://github.com/eltalelibrarian/sote)
 - [Street Fighter III: 3rd Strike](https://github.com/apstygo/sfiii-decomp)
 - [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1)
@@ -201,9 +207,11 @@ A curated list of awesome game decompilations
 - [The New Tetris](https://github.com/kiritodv/tnt)
 - [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm)
 - [Tokyo Bus Guide](https://github.com/lhsazevedo/tbg-decomp)
+- [Tomba!](https://github.com/hansbonini/psx_tomba)
 - [Touhou PC-98](https://github.com/nmlgc/ReC98)
 - [Turok 3: Shadow of Oblivion](https://github.com/Drahsid/turok3)
 - [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp)
+- [Vagrant Story](https://github.com/ser-pounce/rood-reverse)
 - [VIB Ribbon](https://github.com/open-ribbon/open-ribbon)
 - [Virtual Pool 64](https://github.com/llonsit/virtualpool64)
 - [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2)
