@@ -148,6 +148,7 @@ A curated list of awesome game decompilations
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
 - [Fatal Frame 1](https://github.com/mikompilation/himuro)
 - [Fatal Frame 2](https://github.com/mikompilation/minakami)
+- [Final Fantasy VII](https://github.com/xeeynamo/ff7-decomp)
 - [Gauntlet Legends](https://github.com/drahsid/gauntlet-legends)
 - [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp)
 - [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves)
