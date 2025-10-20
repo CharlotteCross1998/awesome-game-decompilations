@@ -70,6 +70,7 @@ A curated list of awesome game decompilations
 ## AC
 - [Animal Forest](https://github.com/zeldaret/af)
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
+- [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 
 ## Mario 
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
@@ -77,7 +78,7 @@ A curated list of awesome game decompilations
 - [Mario & Luigi - Partners in Time](https://github.com/rainchus/partnersintime-decomp)
 - [Mario Golf](https://github.com/monde-lointain/mariogolf64)
 - [Mario Kart 64](https://github.com/n64decomp/mk64)
-- [Mario Kart: Double Dash!!](https://github.com/swarejonge/mkdd)
+- [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd)
 - [Mario Kart Wii](https://github.com/riidefi/mkw)
 - [Mario Party 1](https://github.com/mariopartyrd/marioparty)
 - [Mario Party 2](https://github.com/mariopartyrd/marioparty2)
@@ -147,6 +148,7 @@ A curated list of awesome game decompilations
 - [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit)
 - [Fatal Frame 1](https://github.com/mikompilation/himuro)
 - [Fatal Frame 2](https://github.com/mikompilation/minakami)
+- [Final Fantasy VII](https://github.com/xeeynamo/ff7-decomp)
 - [Gauntlet Legends](https://github.com/drahsid/gauntlet-legends)
 - [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp)
 - [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves)
@@ -201,7 +203,7 @@ A curated list of awesome game decompilations
 - [Star Fox 64](https://github.com/sonicdcer/sf64)
 - [Star Fox Adventures](https://github.com/renakunisaki/sfadebug)
 - [Star Wars: Shadows of the Empire](https://github.com/eltalelibrarian/sote)
-- [Street Fighter III: 3rd Strike](https://github.com/apstygo/sfiii-decomp)
+- [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp)
 - [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1)
 - [The Incredibles](https://github.com/seilweiss/incredibles)
 - [The New Tetris](https://github.com/kiritodv/tnt)
