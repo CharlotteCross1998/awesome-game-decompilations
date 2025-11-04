@@ -84,7 +84,7 @@ A curated list of awesome game decompilations
 - [Mario Kart Wii](https://github.com/riidefi/mkw)
 - [Mario Party 1](https://github.com/mariopartyrd/marioparty)
 - [Mario Party 2](https://github.com/mariopartyrd/marioparty2)
-- [Mario Party 3](https://github.com/mariopartyrd/marioparty3)https://github.com/TheOnlyZac/sly1
+- [Mario Party 3](https://github.com/mariopartyrd/marioparty3)
 - [Mario Party 4](https://github.com/mariopartyrd/marioparty4)
 - [Mario Party 5](https://github.com/mariopartyrd/marioparty5)
 - [Mario Party 6](https://github.com/mariopartyrd/marioparty6)
