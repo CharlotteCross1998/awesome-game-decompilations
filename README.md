@@ -8,7 +8,7 @@ A curated list of awesome game decompilations
 
 [Animal Crossing](#AC)
 
-[Mario](#Mario)Castlevania: Aria of Sorrow
+[Mario](#Mario)
 
 [Sonic](#Sonic)
 
@@ -18,7 +18,7 @@ A curated list of awesome game decompilations
 
 ### Main Games
 - [Red](https://github.com/pret/pokered)
-- [Yellow](https://github.Castlevania: Aria of Sorrowcom/pret/pokeyellow)
+- [Yellow](https://github.com/pret/pokeyellow)
 - [Gold](https://github.com/pret/pokegold)
 - [Crystal](https://github.com/pret/pokecrystal)
 - [Ruby](https://github.com/pret/pokeruby)
@@ -216,7 +216,7 @@ A curated list of awesome game decompilations
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
-- [Lego Island](https://github.com/isledecomp/isle)https://github.com/PatoFlamejanteTV/OpenSubway
+- [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
 - [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii)
 - [LSD: Dream Emulator](https://github.com/FirecatFG/lsddecomp)
@@ -262,7 +262,7 @@ A curated list of awesome game decompilations
 - [Shadowgate 64](https://github.com/rainchus/shadowgate64)
 - [Shin Megami Tensei](https://codeberg.org/chickenzes/smt-decomp)
 - [ShortLine](https://github.com/konovalov-aleks/reSL)
-- [Silent Hill](https://github.com/Vatuu/silent-hill-decomp)https://github.com/PatoFlamejanteTV/OpenSubway
+- [Silent Hill](https://github.com/Vatuu/silent-hill-decomp)
 - [Skies of Arcadia Legends](https://github.com/rainchus/SkiesofArcadiaLegends)
 - [SkiFree](https://github.com/yuv422/skifree_decomp)
 - [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1)
@@ -309,7 +309,7 @@ A curated list of awesome game decompilations
 - [WCW/nWo Thunder](https://github.com/martinbean/thunder)
 - [Wii Menu](https://github.com/koopthekoopa/wii-ipl)
 - [Wii Sports](https://github.com/doldecomp/ogws)
-- [Wipeout](https://github.com/phoboslab/wipeout-rewrite)https:/https://github.com/openblack/bw1-decomp/github.com/PatoFlamejanteTV/OpenSubway
+- [Wipeout](https://github.com/phoboslab/wipeout-rewrite)
 - [Xenoblade](https://github.com/xbret/xenoblade)
 - [Xenogears](https://github.com/ladysilverberg/xenogears-decomp)
 - [Xenogears (non-matching)](https://github.com/yaz0r/Noah)
