@@ -277,7 +277,7 @@ A curated list of awesome game decompilations
 - [Guitar Hero: Warriors of Rock](https://github.com/kernaltrap8/WoR-Plus)
 - [Gunmetal](https://github.com/dingusdev/gunmetal-decomp)
 - [Hagi (GameCube & Wii emulator from Super Mario 3D All-Stars)](https://github.com/GRAnimated/Hagi)
-- [Halo: Combat Evolved](https://github.com/halo-re/halo)
+- [Halo: Combat Evolved](https://github.com/punpckhdq/halo)
 - [Happy Wheels](https://github.com/Afterflash/HappyWheels)
 - [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp)
 - [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl)
