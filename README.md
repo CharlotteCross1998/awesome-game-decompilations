@@ -292,6 +292,7 @@ A curated list of awesome game decompilations
 - [Inazuma Eleven Strikers](https://github.com/SwareJonge/IEStrikers)
 - [Jazz Jackrabbit 2](https://github.com/Mustafa1177/jazzjackrabbit2-decompiled)
 - [Jet Force Gemini](https://github.com/ryan-myers/jet-force-gemini)
+- [Jet Set Radio Future](https://codeberg.org/KeybadeBlox/JSRF-Decompilation)
 - [Johnny Herbert's Grand Prix Championship 1998](https://github.com/danvratil/jhgpc98decomp)
 - [Jumping Flash](https://github.com/NotExactlySiev/aloha)
 - [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG)
