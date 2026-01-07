@@ -57,6 +57,7 @@ A curated list of awesome game decompilations
 - [Puzzle](https://github.com/angheloalf/puzzleleague64)
 - [Snap](https://github.com/ethteck/pokemonsnap)
 - [Rumble](https://github.com/KooShnoo/pokemon-rumble)
+- [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
 
 ## Zelda
 - [Ocarina of Time](https://github.com/zeldaret/oot)
