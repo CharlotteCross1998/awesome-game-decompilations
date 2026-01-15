@@ -341,6 +341,7 @@ A curated list of awesome game decompilations
 - [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion)
 - [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii)
+- [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii)
 - [Nocturne](https://github.com/NearlyTRex/NocturneDecomp)
 - [Okami HD](https://github.com/Shintensu/OkamiHD-Decomp)
 - [On The Run 2](https://github.com/caramelcupcakes842/On-The-Run-2-Decomp)
