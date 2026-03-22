@@ -1,22 +1,21 @@
 # awesome-game-decompilations
-A curated list of awesome game decompilations
+A curated list of awesome game decompilations, recompilations and disassemblies.
+
+# How to use this repo
+If you're looking for a specific game, I recommend ctrl+f to find it. For those looking to browse, the repo is organised by console, then alphabetically.
+
+# AI disclosure
+Whilst I am no fan of using AI for programming, this project is for end users to easily find other projects. As such, I feel it is up to the end users whether they wish to use a project that had AI involvement, so AI projects are allowed. Any AI projects will be disclosed as such to inform the end users. 
+Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/discussions/31
 
 # Table of Contents
-[Pokemon](#Pokemon)
+(Under construction)
 
-[Zelda](#Zelda)
+# Consoles
+(Under construction)
 
-[Animal Crossing](#AC)
+## GameBoy
 
-[Mario](#Mario)
-
-[Sonic](#Sonic)
-
-[Other](#Other)
-
-## Pokemon 
-
-### Main Games
 - [Red](https://github.com/pret/pokered)
 - [Yellow](https://github.com/pret/pokeyellow)
 - [Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
@@ -31,35 +30,26 @@ A curated list of awesome game decompilations
 - [HeartGold](https://github.com/pret/pokeheartgold)
 - [Black](https://github.com/pokemodding/pokeblack)
 
-### Spin-Offs 
-
-#### Stadium
 - [Stadium](https://github.com/pret/pokestadium)
 - [Stadium 2](https://github.com/pret/pokestadiumgs)
 - [Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 
-#### Mystery Dungeon
 - [PMD Red](https://github.com/pret/pmd-red)
 - [PMD Sky](https://github.com/pret/pmd-sky)
 
-#### Park
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
 
-#### Pinball
 - [Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
 - [Pinball](https://github.com/pret/pokepinball)
 
-#### TCG
 - [TCG 1](https://github.com/pret/poketcg)
 - [TCG 2](https://github.com/pret/poketcg2)
 
-#### Other
 - [Puzzle](https://github.com/angheloalf/puzzleleague64)
 - [Snap](https://github.com/ethteck/pokemonsnap)
 - [Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
 
-## Zelda
 - [Ocarina of Time](https://github.com/zeldaret/oot)
 - [Majora's Mask](https://github.com/zeldaret/mm)
 - [Wind Waker](https://github.com/zeldaret/tww)
@@ -73,12 +63,10 @@ A curated list of awesome game decompilations
 - [Breath of The Wild](https://github.com/zeldaret/botw)
 - [Link's Awakening (Switch)](https://github.com/Owen-Splat/las-decomp)
 
-## AC
 - [Animal Forest](https://github.com/zeldaret/af)
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
 - [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 
-## Mario 
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
 - [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
@@ -125,7 +113,6 @@ A curated list of awesome game decompilations
 - [Yoshi's Story](https://github.com/decompals/yoshis-story)
 - [Yoshi's Woolly World](https://github.com/Swiftshine/yww)
 
-## Sonic
 - [Sonic & Knuckles Collection (1997)](https://git.sr.ht/~benoitren/skccport)
 - [Sonic The Fighters](https://github.com/biggestsonicfan/stfdecomp)
 - [Sonic the Hedgehog 1 & 2 (Mobile)](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
@@ -146,7 +133,6 @@ A curated list of awesome game decompilations
 - [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp)
 - [Sonic Rush Adventure](https://github.com/RushRE/SonicRushAdventure-Decomp)
 
-## Other
 - [Advance Wars 2: Black Hole Rising](https://github.com/Eebit/aw2bhr)
 - [AeroGauge](https://github.com/llonsit/aerogauge)
 - [Age of Speed 2](https://github.com/Llamaware/age-of-speed2)
