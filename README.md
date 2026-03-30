@@ -14,41 +14,42 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 # Consoles
 (Under construction)
 
-## GameBoy
-
-- [Red](https://github.com/pret/pokered)
-- [Yellow](https://github.com/pret/pokeyellow)
-- [Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
-- [Gold](https://github.com/pret/pokegold)
-- [Crystal](https://github.com/pret/pokecrystal)
-- [Ruby](https://github.com/pret/pokeruby)
-- [FireRed](https://github.com/pret/pokefirered)
-- [Emerald](https://github.com/pret/pokeemerald)
-- [Emerald (JP)](https://github.com/pret/pokeemerald-jp)
-- [Diamond](https://github.com/pret/pokediamond)
-- [Platinum](https://github.com/pret/pokeplatinum)
-- [HeartGold](https://github.com/pret/pokeheartgold)
-- [Black](https://github.com/pokemodding/pokeblack)
-
-- [Stadium](https://github.com/pret/pokestadium)
-- [Stadium 2](https://github.com/pret/pokestadiumgs)
-- [Battle Revolution](https://github.com/bgsamm/pbr-dtk)
-
-- [PMD Red](https://github.com/pret/pmd-red)
-- [PMD Sky](https://github.com/pret/pmd-sky)
-
+## GameBoy 
+- [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
+- [Pokémon Red](https://github.com/pret/pokered)
+- [Pokémon Yellow](https://github.com/pret/pokeyellow)
+## Gameboy Colour
+- [Pokémon Crystal](https://github.com/pret/pokecrystal)
+- [Pokémon Gold](https://github.com/pret/pokegold)
+- [Pokémon Pinball](https://github.com/pret/pokepinball)
+- [Pokémon Puzzle](https://github.com/angheloalf/puzzleleague64)
+- [Pokémon TCG 1](https://github.com/pret/poketcg)
+- [Pokémon TCG 2](https://github.com/pret/poketcg2)
+## GameBoy Advance
+- [Pokémon Emerald](https://github.com/pret/pokeemerald)
+- [Pokémon Emerald (JP)](https://github.com/pret/pokeemerald-jp)
+- [Pokémon FireRed](https://github.com/pret/pokefirered)
+- [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/pret/pmd-red)
+- [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
+- [Pokémon Ruby](https://github.com/pret/pokeruby)
+## Nintendo 64
+- [Pokémon Snap](https://github.com/ethteck/pokemonsnap)
+- [Pokémon Stadium](https://github.com/pret/pokestadium)
+- [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs)
+## Gamecube
+- [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
+## Nintendo DS
+- [Pokémon Black](https://github.com/pokemodding/pokeblack)
+- [Pokémon Diamond](https://github.com/pret/pokediamond)
+- [Pokémon HeartGold](https://github.com/pret/pokeheartgold)
+- [Pokémon Platinum](https://github.com/pret/pokeplatinum)
+- [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky)
+## Nintendo Wii
+- [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk)
+- [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
 
-- [Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
-- [Pinball](https://github.com/pret/pokepinball)
 
-- [TCG 1](https://github.com/pret/poketcg)
-- [TCG 2](https://github.com/pret/poketcg2)
-
-- [Puzzle](https://github.com/angheloalf/puzzleleague64)
-- [Snap](https://github.com/ethteck/pokemonsnap)
-- [Rumble](https://github.com/KooShnoo/pokemon-rumble)
-- [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
 
 - [Ocarina of Time](https://github.com/zeldaret/oot)
 - [Majora's Mask](https://github.com/zeldaret/mm)
