@@ -39,6 +39,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Stadium](https://github.com/pret/pokestadium)
 - [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs)
 - [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
+- [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
 ## Gamecube
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
