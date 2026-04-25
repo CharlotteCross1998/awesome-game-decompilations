@@ -26,6 +26,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon TCG 1](https://github.com/pret/poketcg)
 - [Pokémon TCG 2](https://github.com/pret/poketcg2)
 ## GameBoy Advance
+- [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp)
 - [Pokémon Emerald](https://github.com/pret/pokeemerald)
 - [Pokémon Emerald (JP)](https://github.com/pret/pokeemerald-jp)
 - [Pokémon FireRed](https://github.com/pret/pokefirered)
@@ -35,6 +36,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc)
 ## Nintendo 64
 - [Animal Forest](https://github.com/zeldaret/af)
+- [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
 - [Pokémon Snap](https://github.com/ethteck/pokemonsnap)
 - [Pokémon Stadium](https://github.com/pret/pokestadium)
 - [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs)
@@ -182,7 +184,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Blast Corps](https://github.com/SlaveOfIDO/blastcorps)
 - [Blasterball Revolution 2](https://github.com/KoboDev/BBR2Decompile)
 - [Bloons TD 5](https://github.com/NKHook/BTD5-Decomp)
-- [Body Harvest](https://github.com/deltaniumindustries/bodyharvestdecomp)
 - [Bomberman 64](https://github.com/bomberhackers/bm64)
 - [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa)
 - [Bomberman Hero](https://github.com/bomberhackers/bmhero)
@@ -352,6 +353,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine)
 - [Mixels Rush](https://github.com/Nugetinc/MixelsRushDecompilation)
 - [Monster Hunter](https://github.com/2Tie/mh1j)
+- [Monster Hunter Portable 2nd G](https://github.com/tclamb/mhp2g-decomp)
 - [Mortal Kombat: Deadly Alliance](https://github.com/cScarletter/MK-3D-Era-Decompilation)
 - [Mother 1+2](https://github.com/Normmatt/m12)
 - [Mischief Makers](https://github.com/drahsid/mischief-makers)
