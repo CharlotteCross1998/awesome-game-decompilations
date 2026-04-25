@@ -32,41 +32,44 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/pret/pmd-red)
 - [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
 - [Pokémon Ruby](https://github.com/pret/pokeruby)
+- [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc)
 ## Nintendo 64
+- [Animal Forest](https://github.com/zeldaret/af)
 - [Pokémon Snap](https://github.com/ethteck/pokemonsnap)
 - [Pokémon Stadium](https://github.com/pret/pokestadium)
 - [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs)
+- [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
+- [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
 ## Gamecube
+- [Animal Crossing](https://github.com/acreteam/ac-decomp)
+- [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 - [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
+- [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
+- [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww)
 ## Nintendo DS
 - [Pokémon Black](https://github.com/pokemodding/pokeblack)
 - [Pokémon Diamond](https://github.com/pret/pokediamond)
 - [Pokémon HeartGold](https://github.com/pret/pokeheartgold)
 - [Pokémon Platinum](https://github.com/pret/pokeplatinum)
 - [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky)
+- [Phantom Hourglass](https://github.com/zeldaret/ph)
+- [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st)
 ## Nintendo Wii
 - [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 - [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
+- [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss)
+- [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
+## Nintendo 3DS
+- [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
+## Nintendo Switch 
+- [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
+- [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
 
+## Uncategorised
+### This section is for works in progress for categorisation. 
 
-
-- [Ocarina of Time](https://github.com/zeldaret/oot)
-- [Majora's Mask](https://github.com/zeldaret/mm)
-- [Wind Waker](https://github.com/zeldaret/tww)
-- [Minish Cap](https://github.com/zeldaret/tmc)
-- [Twilight Princess](https://github.com/zeldaret/tp)
 - [Ocarina of Time (& Wii Virtual Console N64 Emulator)](https://github.com/zeldaret/oot-vc)
-- [Phantom Hourglass](https://github.com/zeldaret/ph)
-- [Spirit Tracks](https://github.com/yanis002/st)
-- [Skyward Sword](https://github.com/zeldaret/ss)
-- [Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
-- [Breath of The Wild](https://github.com/zeldaret/botw)
-- [Link's Awakening (Switch)](https://github.com/Owen-Splat/las-decomp)
-
-- [Animal Forest](https://github.com/zeldaret/af)
-- [Animal Crossing](https://github.com/acreteam/ac-decomp)
-- [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
 - [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
