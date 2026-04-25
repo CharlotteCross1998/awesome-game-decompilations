@@ -65,6 +65,19 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 ## Nintendo Switch 
 - [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
 - [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
+## Xbox 360
+- [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp)
+- [Banjo-Kazooie Nuts and Bolts](https://github.com/masterspike52/reNut)
+- [Blue Dragon](https://github.com/zolaware/reblue)
+- [Crackdown](https://github.com/SkiddyToast/Crackdown)
+- [Crackdown 2](https://github.com/matty45/Crackdown2-Recomp)
+- [Destroy All Humans: Path of the Furon](https://github.com/masterspike52/reDAHM)
+- [Guitar Hero 2](https://github.com/YoshiCrystal9/re-gh2)
+- [Halo 3 Delta](https://github.com/twist84/halo3_cache_release_recomp/)
+- [Sonic 06 Demo](https://github.com/PranchaD/re-Sonic06Demo)
+- [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
+- [Test Drive Unlimited](https://github.com/testdriveupgrade/TDURE)
+- [Viva Pinata: Trouble In Paradise](https://github.com/SolarCookies/TiP-Recomp)
 
 ## Uncategorised
 ### This section is for works in progress for categorisation. 
