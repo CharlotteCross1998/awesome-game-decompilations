@@ -5,7 +5,7 @@ A curated list of awesome game decompilations, recompilations and disassemblies.
 If you're looking for a specific game, I recommend ctrl+f to find it. For those looking to browse, the repo is organised by console, then alphabetically.
 
 # AI disclosure
-Whilst I am no fan of using AI for programming, this project is for end users to easily find other projects. As such, I feel it is up to the end users whether they wish to use a project that had AI involvement, so AI projects are allowed. Any AI projects will be disclosed as such to inform the end users. 
+Whilst I am no fan of using AI for programming, this project is for end users to easily find other projects. As such, I feel it is up to the end users whether they wish to use a project that had AI involvement, so AI projects are allowed. Any AI projects will be disclosed using the '⚠️' emoji as such to inform the end users. 
 Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/discussions/31
 
 # Table of Contents
@@ -44,6 +44,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
 - [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 - [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
+- [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 - [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww)
 ## Nintendo DS
