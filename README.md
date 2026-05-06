@@ -43,7 +43,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 - [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
-## Gamecube
+## Nintendo Gamecube
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
 - [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 - [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
@@ -58,7 +58,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky)
 - [Phantom Hourglass](https://github.com/zeldaret/ph)
 - [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st)
-## Nintendo Wii
+## Wii
 - [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 - [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
@@ -139,9 +139,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Sonic the Hedgehog 1 & 2 (Mobile)](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 - [Sonic the Hedgehog (DIDJ)](https://github.com/ArchiverXP/sncdecomp)
 - [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation)
-- [Sonic the Hedgehog 4 (Ep 1)](https://github.com/fr3dsp/Sonic4Ep1-Decomp)
+- [Sonic the Hedgehog 4 - Episode 1 (Windows Phone)](https://github.com/fr3dsp/Sonic4Ep1-Decomp)
 - [Sonic the Hedgehog CD (Mobile)](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
-- [Sonic the Hedgehog CD (Sonic Gems Collection version)](https://git.sr.ht/~benoitren/soniccddecompilation)
+- [Sonic the Hedgehog CD (Sonic Gems Collection/PC version)](https://git.sr.ht/~benoitren/soniccddecompilation)
 - [Sonic Advance](https://github.com/SAT-R/sa1)
 - [Sonic Advance 2](https://github.com/SAT-R/sa2)
 - [Sonic Advance 3](https://github.com/SAT-R/sa3)
