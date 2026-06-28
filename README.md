@@ -14,6 +14,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 # Consoles
 (Under construction)
 
+## NES / Famicom
+- [⚠️ Battle City](https://github.com/vgrichina/battlecity)
+
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
 - [Pokémon Red](https://github.com/pret/pokered)
