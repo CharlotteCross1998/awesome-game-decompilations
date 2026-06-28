@@ -71,6 +71,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 ## Nintendo 3DS
 - [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
 ## Nintendo Switch 
+- [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
 - [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
 ## Xbox 360
@@ -335,7 +336,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
 - [LEGO Batman: The Videogame](https://github.com/mariopossamato/LEGO-Batman)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
-- [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [Lego Creator Knights Kingdom](https://github.com/DavidGrice/knightskingdom)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
