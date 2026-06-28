@@ -37,6 +37,8 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
 - [Pokémon Ruby](https://github.com/pret/pokeruby)
 - [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc)
+## Nintendo Entertainment System
+- [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
 ## Nintendo 64
 - [Animal Forest](https://github.com/zeldaret/af)
 - [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
