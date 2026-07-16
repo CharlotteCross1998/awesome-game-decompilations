@@ -21,6 +21,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
 - [Pokémon Red](https://github.com/pret/pokered)
 - [Pokémon Yellow](https://github.com/pret/pokeyellow)
+
 ## Gameboy Colour
 - [Pokémon Crystal](https://github.com/pret/pokecrystal)
 - [Pokémon Gold](https://github.com/pret/pokegold)
@@ -28,6 +29,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Puzzle](https://github.com/angheloalf/puzzleleague64)
 - [Pokémon TCG 1](https://github.com/pret/poketcg)
 - [Pokémon TCG 2](https://github.com/pret/poketcg2)
+
 ## GameBoy Advance
 - [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp)
 - [Pokémon Emerald](https://github.com/pret/pokeemerald)
@@ -37,6 +39,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
 - [Pokémon Ruby](https://github.com/pret/pokeruby)
 - [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc)
+
 ## Nintendo 64
 - [Animal Forest](https://github.com/zeldaret/af)
 - [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
@@ -46,6 +49,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 - [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
+
 ## Nintendo Gamecube
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
 - [Animal Forest e+](https://github.com/acreteam/afe-decomp)
@@ -54,7 +58,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 - [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww)
+
 ## Nintendo DS
+- [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Pokémon Black](https://github.com/pokemodding/pokeblack)
 - [Pokémon Diamond](https://github.com/pret/pokediamond)
 - [Pokémon HeartGold](https://github.com/pret/pokeheartgold)
@@ -62,19 +68,23 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky)
 - [Phantom Hourglass](https://github.com/zeldaret/ph)
 - [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st)
-## Wii
+
+## Nintendo Wii
 - [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 - [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
 - [Rock Band 3 (Wii)](https://github.com/DarkRTA/rb3)
 - [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
+
 ## Nintendo 3DS
 - [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
+
 ## Nintendo Switch 
 - [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
 - [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
+
 ## Xbox 360
 - [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp)
 - [Banjo-Kazooie Nuts and Bolts](https://github.com/masterspike52/reNut)
@@ -255,7 +265,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Dr. Brain Action Reaction](https://github.com/SirHenricus/DrBrainActionReaction_PackageDecomp)
 - [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends)
 - [Dragon Ball Z: Budokai 2](https://github.com/TotallyNotMichael-GH/dbz2)
-- [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Dragon Warrior Monsters](https://github.com/NiyaDev/DWM)
 - [Drakan: The Ancients' Gates](https://github.com/cScarletter/Drakan-The-Ancient-Gates-Decompilation-)
 - [Driver 2](https://github.com/OpenDriver2/REDRIVER2)
