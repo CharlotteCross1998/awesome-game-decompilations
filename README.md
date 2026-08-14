@@ -14,10 +14,16 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 # Consoles
 (Under construction)
 
+## NES / Famicom
+- [⚠️ Battle City](https://github.com/vgrichina/battlecity)
+- [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
+- [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
+
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
 - [Pokémon Red](https://github.com/pret/pokered)
 - [Pokémon Yellow](https://github.com/pret/pokeyellow)
+
 ## Gameboy Colour
 - [Pokémon Crystal](https://github.com/pret/pokecrystal)
 - [Pokémon Gold](https://github.com/pret/pokegold)
@@ -25,6 +31,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Puzzle](https://github.com/angheloalf/puzzleleague64)
 - [Pokémon TCG 1](https://github.com/pret/poketcg)
 - [Pokémon TCG 2](https://github.com/pret/poketcg2)
+
 ## GameBoy Advance
 - [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp)
 - [Pokémon Emerald](https://github.com/pret/pokeemerald)
@@ -34,8 +41,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs)
 - [Pokémon Ruby](https://github.com/pret/pokeruby)
 - [The Legend of Zelda: Minish Cap](https://github.com/zeldaret/tmc)
-## Nintendo Entertainment System
-- [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
+
 ## Nintendo 64
 - [Animal Forest](https://github.com/zeldaret/af)
 - [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
@@ -45,14 +51,18 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm)
 - [The Legend of Zelda: Majora's Mask (Native Port)](https://github.com/Zelda64Recomp/Zelda64Recomp)
 - [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot)
-## Gamecube
+
+## Nintendo Gamecube
 - [Animal Crossing](https://github.com/acreteam/ac-decomp)
 - [Animal Forest e+](https://github.com/acreteam/afe-decomp)
 - [Pokémon XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp)
+- [⚠️ Star Fox Adventures](https://github.com/zcanann/SFA-Decomp)
 - [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 - [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww)
+
 ## Nintendo DS
+- [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Pokémon Black](https://github.com/pokemodding/pokeblack)
 - [Pokémon Diamond](https://github.com/pret/pokediamond)
 - [Pokémon HeartGold](https://github.com/pret/pokeheartgold)
@@ -60,26 +70,34 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Pokémon Mystery Dungeon: Explorers of Sky](https://github.com/pret/pmd-sky)
 - [Phantom Hourglass](https://github.com/zeldaret/ph)
 - [The Legend of Zelda: Spirit Tracks](https://github.com/yanis002/st)
+
 ## Nintendo Wii
 - [Pokémon Battle Revolution](https://github.com/bgsamm/pbr-dtk)
 - [Pokémon Rumble](https://github.com/KooShnoo/pokemon-rumble)
 - [Pokepark Wii: Pikachu's Adventure](https://github.com/sephdb/pokepark-wii-decomp)
+- [Rock Band 3 (Wii)](https://github.com/DarkRTA/rb3)
 - [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
+
 ## Nintendo 3DS
 - [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d)
+
 ## Nintendo Switch 
+- [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
 - [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
+
 ## Xbox 360
 - [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp)
 - [Banjo-Kazooie Nuts and Bolts](https://github.com/masterspike52/reNut)
 - [Blue Dragon](https://github.com/zolaware/reblue)
 - [Crackdown](https://github.com/SkiddyToast/Crackdown)
 - [Crackdown 2](https://github.com/matty45/Crackdown2-Recomp)
+- [Dance Central 3](https://github.com/rjkiv/dc3-decomp)
 - [Destroy All Humans: Path of the Furon](https://github.com/masterspike52/reDAHM)
 - [Guitar Hero 2](https://github.com/YoshiCrystal9/re-gh2)
 - [Halo 3 Delta](https://github.com/twist84/halo3_cache_release_recomp/)
+- [Rock Band 3 (Xbox 360)](https://github.com/ihatecompvir/band3_recomp)
 - [Sonic 06 Demo](https://github.com/PranchaD/re-Sonic06Demo)
 - [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 - [Test Drive Unlimited](https://github.com/testdriveupgrade/TDURE)
@@ -91,7 +109,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Ocarina of Time (& Wii Virtual Console N64 Emulator)](https://github.com/zeldaret/oot-vc)
 
 - [Captain Toad: Treasure Tracker](https://github.com/Moddimation/KinokoDecomp-S)
-- [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 - [Dr. Mario 64](https://github.com/angheloalf/drmario64)
 - [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion)
 - [Mario & Luigi: Partners in Time](https://github.com/rainchus/partnersintime-decomp)
@@ -141,9 +158,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Sonic the Hedgehog 1 & 2 (Mobile)](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 - [Sonic the Hedgehog (DIDJ)](https://github.com/ArchiverXP/sncdecomp)
 - [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation)
-- [Sonic the Hedgehog 4 (Ep 1)](https://github.com/fr3dsp/Sonic4Ep1-Decomp)
+- [Sonic the Hedgehog 4 - Episode 1 (Windows Phone)](https://github.com/fr3dsp/Sonic4Ep1-Decomp)
 - [Sonic the Hedgehog CD (Mobile)](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation)
-- [Sonic the Hedgehog CD (Sonic Gems Collection version)](https://git.sr.ht/~benoitren/soniccddecompilation)
+- [Sonic the Hedgehog CD (Sonic Gems Collection/PC version)](https://git.sr.ht/~benoitren/soniccddecompilation)
 - [Sonic Advance](https://github.com/SAT-R/sa1)
 - [Sonic Advance 2](https://github.com/SAT-R/sa2)
 - [Sonic Advance 3](https://github.com/SAT-R/sa3)
@@ -220,7 +237,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Cuphead](https://github.com/jmxamongusmodder/cuphead-decomp)
 - [Custom Robo GX](https://github.com/pizdex/robogx)
 - [Cut The Rope](https://github.com/Bingies24/CtRCrossPlatform)
-- [Dance Central 3](https://github.com/rjkiv/dc3-decomp)
 - [Dark Cloud](https://github.com/adubbz/dcdecomp)
 - [Dark Rift](https://github.com/unnunu/darkrift)
 - [de Blob](https://github.com/AdventureT/OpenToshi)
@@ -250,7 +266,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Dr. Brain Action Reaction](https://github.com/SirHenricus/DrBrainActionReaction_PackageDecomp)
 - [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends)
 - [Dragon Ball Z: Budokai 2](https://github.com/TotallyNotMichael-GH/dbz2)
-- [Dragon Quest IX](https://github.com/DQIX/dqix-decomp)
 - [Dragon Warrior Monsters](https://github.com/NiyaDev/DWM)
 - [Drakan: The Ancients' Gates](https://github.com/cScarletter/Drakan-The-Ancient-Gates-Decompilation-)
 - [Driver 2](https://github.com/OpenDriver2/REDRIVER2)
@@ -332,7 +347,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
 - [LEGO Batman: The Videogame](https://github.com/mariopossamato/LEGO-Batman)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
-- [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation)
 - [Lego Creator Knights Kingdom](https://github.com/DavidGrice/knightskingdom)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
@@ -399,7 +413,6 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Rhythm Heaven DS](https://github.com/patataofcourse/rhgold)
 - [Rhythm Heaven Fever](https://github.com/conhlee/rhf)
 - [Ridge Racer 64](https://github.com/jvicu2001/rr64-decomp)
-- [Rock Band 3](https://github.com/DarkRTA/rb3)
 - [Rock Band 3 (Nintendo DS)](https://github.com/ieee802dot11ac/rb3ds)
 - [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels)
 - [Rumble Fighter](https://github.com/Primitheus/rumbledecomp)
