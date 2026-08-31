@@ -135,7 +135,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp)
 - [Super Mario Sunshine](https://github.com/doldecomp/sms)
 - //[Super Monkey Ball](https://github.com/yomcube/supermonkeyball-dtk)
-- [Super Smash Bros. Melee](https://github.com/doldecomp/melee)
+- [⚠️ Super Smash Bros. Melee](https://github.com/doldecomp/melee)
 - [⚠️ The Sims 2](https://github.com/natebag/Sims2DECOMP)
 - [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp)
 - [The Legend of Zelda: Wind Waker](https://github.com/zeldaret/tww)
