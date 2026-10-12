@@ -411,6 +411,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
 - [Lego Creator Knights Kingdom](https://github.com/DavidGrice/knightskingdom)
 - [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii)
+- [⚠️ Lemmings Paintball](https://github.com/vonhoff/lemball-decomp)
 - [Lock's Quest](https://github.com/redraincatching/locksmith)
 - [Lunar 2: Eternal Blue Complete](https://github.com/Zackmon/lunar2-psx-decomp)
 - [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re)
