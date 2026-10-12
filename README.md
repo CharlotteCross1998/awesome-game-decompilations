@@ -17,6 +17,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 ## NES / Famicom
 - [⚠️ Battle City](https://github.com/vgrichina/battlecity)
 - [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
+- [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
 
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
