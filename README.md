@@ -412,7 +412,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re)
 - [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
 - [Legend of Legaia](https://github.com/dacodechick/legaia-decomp)
-- [LEGO Batman: The Videogame](https://github.com/mariopossamato/LEGO-Batman)
+- [⚠️ LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg)
 - [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp)
 - [Lego Creator Knights Kingdom](https://github.com/DavidGrice/knightskingdom)
 - [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii)
