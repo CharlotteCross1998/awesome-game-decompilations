@@ -249,6 +249,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Deltarune](https://github.com/Team-UPD/DeltaruneDecomp)
 - [Five Nights At Freddy's](https://github.com/fr3dsp/FNaF-Decomp)
 - [Five Nights At Freddy's 2](https://github.com/fr3dsp/FNaF-2-Decomp)
+- [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
 - [Pizza Tower](https://github.com/femloy/OpenTower)
