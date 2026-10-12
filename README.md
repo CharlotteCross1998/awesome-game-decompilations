@@ -20,6 +20,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Donkey Kong](https://github.com/RussianManSMWC/Donkey-Kong-NES-Disassembly)
 - [Dr. Mario](https://github.com/Nostaljipi/dr-mario-disassembly)
 - [Earthbound Beginnings](https://github.com/GrasonHumphrey/Earthbound-Zero-Decomp)
+- [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
 
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
