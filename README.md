@@ -34,6 +34,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Earthbound](https://github.com/Herringway/ebsrc)
 
 ## Gameboy Colour
+- [BattleTanx](https://github.com/TheGh0stShip/BattleTanx-GBC)
 - [Pokémon Crystal](https://github.com/pret/pokecrystal)
 - [Pokémon Gold](https://github.com/pret/pokegold)
 - [Pokémon Pinball](https://github.com/pret/pokepinball)
@@ -209,6 +210,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
 
 ## PlayStation
+- [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1)
 - [Crash Bandicoot 2: Cortex Strikes Back](https://github.com/ughman/c2c)
 - [Crash Team Racing](https://github.com/CTR-tools/CTR-ModSDK)
 - [Doom PSX](https://github.com/Erick194/PSXDOOM-RE)
