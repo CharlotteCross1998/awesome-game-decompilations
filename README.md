@@ -34,6 +34,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Earthbound](https://github.com/Herringway/ebsrc)
 
 ## Gameboy Colour
+- [BattleTanx](https://github.com/TheGh0stShip/BattleTanx-GBC)
 - [Pokémon Crystal](https://github.com/pret/pokecrystal)
 - [Pokémon Gold](https://github.com/pret/pokegold)
 - [Pokémon Pinball](https://github.com/pret/pokepinball)
@@ -45,6 +46,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Animal Forest](https://github.com/zeldaret/af)
 - [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie)
 - [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie)
+- [BattleTanx](https://github.com/TheGh0stShip/BattleTanx)
+- [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault)
+- [BattleTanx: Global Assault (Native PC Port)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port)
 - [Blast Corps](https://github.com/SlaveOfIDO/blastcorps)
 - [⚠️ Body Harvest](https://github.com/jaytheham/body-harvest-decompilation)
 - [Bomberman 64](https://github.com/bomberhackers/bm64)
@@ -206,6 +210,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
 
 ## PlayStation
+- [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1)
 - [Crash Bandicoot 2: Cortex Strikes Back](https://github.com/ughman/c2c)
 - [Crash Team Racing](https://github.com/CTR-tools/CTR-ModSDK)
 - [Doom PSX](https://github.com/Erick194/PSXDOOM-RE)
