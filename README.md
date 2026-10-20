@@ -440,6 +440,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4)
 - [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw)
 - [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug)
+- [⚠️ Ninja Master - Shinobi III](https://github.com/krazyjakee/ninja-master)
 - [Nocturne](https://github.com/NearlyTRex/NocturneDecomp)
 - [Okami HD](https://github.com/Shintensu/OkamiHD-Decomp)
 - [On The Run 2](https://github.com/caramelcupcakes842/On-The-Run-2-Decomp)
