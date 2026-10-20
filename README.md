@@ -257,6 +257,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
+- [⚠️ Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure)
 - [Pizza Tower](https://github.com/femloy/OpenTower)
 - [Plants vs Zombies GOTY](https://github.com/Bamcane/re-plants-vs-zombies)
 - [SkiFree](https://github.com/yuv422/skifree_decomp)
