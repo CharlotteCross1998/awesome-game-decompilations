@@ -22,6 +22,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Earthbound Beginnings](https://github.com/GrasonHumphrey/Earthbound-Zero-Decomp)
 - [Super Mario Bros.](https://github.com/oliveryasuna/smb-recomp)
 
+## Sega Master System
+- [⚠️ Power Strike (Disassembly + reskin toolkit)](https://github.com/noema-lands/power-strike-teardown)
+
 ## GameBoy 
 - [Pokémon Gold (SpaceWorld Demo)](https://github.com/pret/pokegold-spaceworld)
 - [Pokémon Red](https://github.com/pret/pokered)
