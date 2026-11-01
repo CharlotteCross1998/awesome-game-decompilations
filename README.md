@@ -230,6 +230,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Ico](https://github.com/rossydoubleunderscore/ico-decomp)
 - [Kingdom Hearts](https://github.com/ethteck/kh1)
 
+## PlayStation Portable
+- [Tekken: Dark Resurrection](https://github.com/gasparegas/tkdr-recomp)
+
 ## Xbox 360
 - [Ace Combat 6: Fires of Liberation](https://github.com/sal063/AC6_recomp)
 - [Banjo-Kazooie](https://github.com/banjo360/bk360)
