@@ -72,6 +72,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Mario Party 3](https://github.com/mariopartyrd/marioparty3)
 - [Mario Tennis](https://github.com/dellm-79/mariotennisn64)
 - [Mischief Makers](https://github.com/drahsid/mischief-makers)
+- [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64)
 - [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion)
 - [Paper Mario](https://github.com/pmret/papermario)
 - [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark)
