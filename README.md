@@ -262,6 +262,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [Five Nights At Freddy's](https://github.com/fr3dsp/FNaF-Decomp)
 - [Five Nights At Freddy's 2](https://github.com/fr3dsp/FNaF-2-Decomp)
 - [⚠️ Freedom Fighters](https://github.com/kaustubhxd/ReFreedomFighters)
+- [⚠️ Gearhead Garage (native macOS recompilation)](https://github.com/007hacky007/gearhead-garage-macos-arm64)
 - [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
