@@ -259,6 +259,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 
 ## PC / Computer
 - [Deltarune](https://github.com/Team-UPD/DeltaruneDecomp)
+- [⚠️ Diablo II: Lord of Destruction (1.14d reimplementation)](https://github.com/psi29a/d2decomped)
 - [Five Nights At Freddy's](https://github.com/fr3dsp/FNaF-Decomp)
 - [Five Nights At Freddy's 2](https://github.com/fr3dsp/FNaF-2-Decomp)
 - [⚠️ Freedom Fighters](https://github.com/kaustubhxd/ReFreedomFighters)
