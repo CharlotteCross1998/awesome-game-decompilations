@@ -265,6 +265,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [⚠️ Freedom Fighters](https://github.com/kaustubhxd/ReFreedomFighters)
 - [⚠️ Gearhead Garage (native macOS recompilation)](https://github.com/007hacky007/gearhead-garage-macos-arm64)
 - [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed)
+- [Grand Theft Auto IV](https://github.com/gemini25873-dot/gta4-reversed)
 - [Lego Island](https://github.com/isledecomp/isle)
 - [Lego Racers](https://github.com/marijnvdwerf/lego-racers)
 - [⚠️ Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure)
