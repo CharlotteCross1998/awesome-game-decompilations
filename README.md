@@ -210,6 +210,9 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [The Legend of Zelda: Breath of The Wild](https://github.com/zeldaret/botw)
 - [The Legend of Zelda: Link's Awakening](https://github.com/Owen-Splat/las-decomp)
 
+## Nintendo Switch 2
+- [The Legend of Zelda: Ocarina of Time (Hookshot)](https://git.notrexed.dev/Hookshot/Hookshot) — [status / trusted mirrors](https://hookshotgithub.com/)
+
 ## Xbox
 - [⚠️ Lord of the Rings; The Third Age](https://github.com/Revan67/ThirdAge-Recomp)
 
