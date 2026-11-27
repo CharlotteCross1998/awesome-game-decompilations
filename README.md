@@ -270,6 +270,7 @@ Discussion: https://github.com/CharlotteCross1998/awesome-game-decompilations/di
 - [⚠️ Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure)
 - [Pizza Tower](https://github.com/femloy/OpenTower)
 - [Plants vs Zombies GOTY](https://github.com/Bamcane/re-plants-vs-zombies)
+- [⚠️ Race Driver: GRID (DRIG engine reimplementation)](https://github.com/PipeKnight/drig-race-driver)
 - [SkiFree](https://github.com/yuv422/skifree_decomp)
 - [Sonic Generations](https://github.com/Luigi587/GenerationsDecomp)
 - [Sonic the Hedgehog CD (Sonic Gems Collection/PC version)](https://git.sr.ht/~benoitren/soniccddecompilation)
